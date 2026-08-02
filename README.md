@@ -1,6 +1,12 @@
+> [!NOTE]
+> This repo is a personal archive of [Cororton's](https://github.com/Coporton/IDM-Activation-Script/releases) IDM Activation Script, which was previously available on GitHub but has since been removed. It is kept here for safekeeping and updates are tracked automatically via GitHub Actions.
+
+> [!WARNING]
+> Use this script at your own risk. It modifies IDM registry entries and downloads executable files, so it may be flagged by antivirus software. The maintainer of this repo is **not** liable for any damage caused by its use.
+
 # IDM Activation Script (Activator + Registry Cleaner)
 
-IDM Activation Script is a tool designed to activate Internet Download Manager (IDM) for free, allowing users to bypass trial period restrictions and enjoy the full version without purchasing a license.
+A script to re-activate Internet Download Manager (IDM) for free — resets the trial and cleans up related registry entries.
 
 **Last Updated:** 2026-07-26 02:13:29 UTC
 
