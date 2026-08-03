@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repo is a personal archive of [Cororton's](https://github.com/Coporton/IDM-Activation-Script/releases) IDM Activation Script, which was previously available on GitHub but has since been removed. It is kept here for safekeeping and updates are tracked automatically via GitHub Actions.
+> This repo is a personal archive of [Coporton's](https://github.com/Coporton/IDM-Activation-Script/releases) IDM Activation Script, which was previously available on GitHub but has since been removed. It is kept here for safekeeping and updates are tracked automatically via GitHub Actions.
 
 > [!WARNING]
 > Use this script at your own risk. It modifies IDM registry entries and downloads executable files, so it may be flagged by antivirus software. The maintainer of this repo is **not** liable for any damage caused by its use.
